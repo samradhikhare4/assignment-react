@@ -1,6 +1,6 @@
 # Getting Started with FrontEnd Task Project
 
-Take clone from the following github repository (). Once the clone is completed go the the project directory using `cd ../../ ` command. Then type command `npm install` to install the project dependencies. After that continue with the below steps to execte your code.
+Take clone from the following github repository (https://github.com/samradhikhare4/nextgeniot-react.git), by using command `git clone https://github.com/samradhikhare4/nextgeniot-react.git`. Once the clone is completed go the the project directory using `cd ../../ ` command. Then type command `npm install` to install the project dependencies. After that continue with the below steps to execte your code.
 
 ## Available Scripts
 
